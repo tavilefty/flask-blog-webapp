@@ -3,3 +3,4 @@ logs
 migrations
 venv
 .DS_Store
+app.db
